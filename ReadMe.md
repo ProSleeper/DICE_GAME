@@ -4,6 +4,10 @@
 ## 구름Edu의 강좌의 마지막 숙제를 구현해봄.
 [링크](https://edu.goorm.io/learn/lecture/201/%ED%95%9C-%EB%88%88%EC%97%90-%EB%81%9D%EB%82%B4%EB%8A%94-c%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88)
 
+# How To Build
+- window: gcc or visual studio 설치 후 컴파일
+- linux: make명령어 혹은 직접 컴파일(g++ -o main.exe main.cpp)
+
 # Rule
 
 - 프로그램 실행시 바로 게임을 시작합니다. 
@@ -35,6 +39,3 @@
 - 너무 오랜만에 c++ 만지다 보니 진짜 뭐가 뭔지 너무 모르겠다.
 - 거기다가 java랑은 error처리도 조금씩 다르고 finally도 없고, 헤더도 따로 선언해줘야 하고, 좀 어렵다...
 - 그래도 다행히 재미는 있네. 계속 해보자.
-
-
-
